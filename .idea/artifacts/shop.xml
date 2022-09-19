@@ -1,0 +1,17 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="shop">
+    <output-path>$PROJECT_DIR$/classes/artifacts/shop</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="shop/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="shop" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="lib" />
+          <element id="library" level="module" name="mchange-commons-java-0.2.3.4.jar" module-name="shop" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
