@@ -11,9 +11,6 @@
         ${message}
         <br/>
         <br/>
-
-
-
         <a href="${ pageContext.request.contextPath }/index.action">首页</a>&nbsp;&nbsp;
         <a href="${ pageContext.request.contextPath }/regist.action">注册</a>
         &nbsp;&nbsp
